@@ -8,7 +8,7 @@ If you do not have a pre-installed MySQL database, you can quickly set up the My
 
 ```
 $ cd kubearmor-mysql-client/deployments/mysql
-.../kubearmor-mysql-client/deployments/mysql$ kubectl apply -n [target namespace] -f mysql-deployment.yaml
+~/kubearmor-mysql-client/deployments/mysql$ kubectl apply -n [target namespace] -f mysql-deployment.yaml
 ```
 
 * Default configuration
